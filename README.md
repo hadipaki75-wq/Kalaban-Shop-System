@@ -26,22 +26,6 @@ The system provides an integrated solution for managing products, inventory, cus
 
 ![Dashboard](screenshots/dashboard.png)
 
-### Customer Management
-
-![Customers](screenshots/customers.png)
-
-### Product Management
-
-![Products](screenshots/products.png)
-
-### Inventory Management
-
-![Inventory](screenshots/inventory.png)
-
-### Reports
-
-![Reports](screenshots/reports.png)
-
 ---
 
 ## Key Features
