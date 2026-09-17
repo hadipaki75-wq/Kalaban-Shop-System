@@ -55,10 +55,9 @@ This project helps manage inventory, customers, accounting, invoices, expenses, 
 
 ## Screenshots
 
-(بعداً تصاویر را اینجا قرار می‌دهیم)
+![Uploading c80e77a2-3347-4dea-9e43-f547b479af73.png…]()
 
----![Uploading c80e77a2-3347-4dea-9e43-f547b479af73.png…]()
-
+---
 
 
 ## Source Code
