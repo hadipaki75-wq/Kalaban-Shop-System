@@ -1,5 +1,6 @@
 <img width="1672" height="941" alt="c80e77a2-3347-4dea-9e43-f547b479af73" src="https://github.com/user-attachments/assets/fcabad34-bd88-4673-80d1-7ed9346c13a0" />
-![Uploading c80e77a2-3347-4dea-9e43-f547b479af73.png…]()
+<img width="1672" height="941" alt="dashbord" src="https://github.com/user-attachments/assets/2cbe5b5c-5675-49d2-8847-260747f236e0" />
+
 # Kalaban Shop Management System
 
 ### Python-Based Retail ERP & Accounting Platform
