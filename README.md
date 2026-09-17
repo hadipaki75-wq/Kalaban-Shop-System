@@ -1,3 +1,4 @@
+<img width="1672" height="941" alt="c80e77a2-3347-4dea-9e43-f547b479af73" src="https://github.com/user-attachments/assets/fcabad34-bd88-4673-80d1-7ed9346c13a0" />
 ![Uploading c80e77a2-3347-4dea-9e43-f547b479af73.png…]()
 # Kalaban Shop Management System
 
