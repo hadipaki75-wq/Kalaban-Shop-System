@@ -1,3 +1,4 @@
+![Uploading c80e77a2-3347-4dea-9e43-f547b479af73.png…]()
 # Kalaban Shop Management System
 
 ### Python-Based Retail ERP & Accounting Platform
