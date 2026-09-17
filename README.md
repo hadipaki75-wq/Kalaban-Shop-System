@@ -1,4 +1,4 @@
-# Kalaban-Shop-System
+<img width="1672" height="941" alt="c80e77a2-3347-4dea-9e43-f547b479af73" src="https://github.com/user-attachments/assets/8c9fa0e1-9c19-405e-9c68-d926e4def3c3" /># Kalaban-Shop-System
 A comprehensive retail management and accounting system built with Python.
 # Store Management System
 
@@ -57,7 +57,9 @@ This project helps manage inventory, customers, accounting, invoices, expenses, 
 
 (بعداً تصاویر را اینجا قرار می‌دهیم)
 
----
+---![Uploading c80e77a2-3347-4dea-9e43-f547b479af73.png…]()
+
+
 
 ## Source Code
 
